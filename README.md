@@ -20,3 +20,19 @@
 
  ### الأدوات المستخدمة:
  Python | pandas | matplotlib | statsmodels (ARIMA) | Jupyter Notebook
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![1](https://github.com/user-attachments/assets/17225a95-ceda-4a21-ad31-3ccb29abcc54)
