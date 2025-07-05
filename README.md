@@ -31,8 +31,5 @@
 
 
 
+![1 (1)](https://github.com/user-attachments/assets/ad0c93ac-be40-410c-b485-241c33e361b1)
 
-
-
-
-![1](https://github.com/user-attachments/assets/17225a95-ceda-4a21-ad31-3ccb29abcc54)
